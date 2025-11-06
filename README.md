@@ -14,10 +14,12 @@
 
 ## ¿Quien soy?
 Soy una estudiante de desarrollo web <br>
-estoy recien iniciando <3
+estoy recien iniciando <3 <br>
+Espero poder desarrollame en un ambiente totalmente distinto al de mi trabajo
+
 ## ¿edad?
 tengo 35 años
 ## hobby
 Me encanta la natacion e ir al gimnasio
 
- ### Gracias por la visita 
+ ### Gracias por la visita!! 
