@@ -17,7 +17,7 @@
 
 
 ## ¿Quien soy?
-Soy una estudiante de desarrollo web 
+Soy una estudiante de desarrollo web <br>
 estoy recien iniciando <3
 
  ### Gracias por la visita 
